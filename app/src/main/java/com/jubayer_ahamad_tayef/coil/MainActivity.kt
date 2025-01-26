@@ -63,5 +63,5 @@ fun CoilImage() {
 @Preview(showSystemUi = true)
 @Composable
 fun CoilImagePreview() {
-
+    CoilImage()
 }
